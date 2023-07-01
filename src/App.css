@@ -1,0 +1,31 @@
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+
+.logo{
+  width: 250px;
+  height: 100px;
+}
+
+.logo-l{
+
+  width: 150px;
+  height: 50px;
+}
+
+.custom-search-bar {
+  width: 300px; /* Adjust the width as needed */
+}
+
+.mr-2 {
+
+  margin-right: 10px;
+  /* Your styles for the right margin */
+}
+
+.btn-primary {
+
+  margin-right: 150px;
+  /* Your styles for the primary version of the button */
+}
